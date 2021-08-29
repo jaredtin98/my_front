@@ -1,5 +1,5 @@
 name: my_front
-# action takes place when branch is pushed to main.
+# action takes place when branch is pushed to main..
 on:
   push:
     branches:
