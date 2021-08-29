@@ -1,9 +1,9 @@
 name: my_front
-# action takes place when 'on push' occurs in main.
+# action takes place when branch is pushed to main.
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
