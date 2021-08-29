@@ -1,4 +1,4 @@
-name: my-front
+name: my_front
 # action takes place when 'on push' occurs in main.
 on:
   push:
